@@ -1,0 +1,28 @@
+{
+  "permissions": {
+    "allow": [
+      "Agent(Explore)",
+      "Read(C:\\Users\\User\\Downloads\\merkron-dashboard-source\\artifacts\\merkron-dashboard/**)",
+      "Read(C:\\Users\\User\\Downloads\\merkron-dashboard-source\\artifacts\\merkron-dashboard\\src/**)",
+      "Read(C:\\Users\\User\\Downloads\\merkron-dashboard-source\\artifacts\\merkron-dashboard\\src\\services/**)",
+      "Read(C:\\Users\\User\\Downloads\\merkron-dashboard-source\\artifacts\\merkron-dashboard\\src\\store/**)",
+      "Read(C:\\Users\\User\\Downloads\\merkron-dashboard-source\\artifacts\\merkron-dashboard\\src\\providers/**)",
+      "Read(C:\\Users\\User\\Downloads\\merkron-dashboard-source\\artifacts\\merkron-dashboard\\src\\lib/**)",
+      "Read(C:\\Users\\User\\Downloads\\merkron-dashboard-source\\artifacts\\merkron-dashboard\\src\\hooks/**)",
+      "Read(C:\\Users\\User\\Downloads\\merkron-dashboard-source\\artifacts\\merkron-dashboard\\src\\components/**)",
+      "Read(C:\\Users\\User\\Downloads\\merkron-dashboard-source\\artifacts\\merkron-dashboard\\src\\components\\painel/**)",
+      "Read(C:\\Users\\User\\Downloads\\merkron-dashboard-source\\artifacts\\merkron-dashboard\\src\\pages/**)",
+      "Bash(npm install)",
+      "Bash(mkdir *)",
+      "Bash(copy *)",
+      "Bash(do *)",
+      "Bash(del *)",
+      "Bash(npx *)",
+      "Bash(npm run *)",
+      "Bash(dir *)",
+      "Bash(rmdir *)",
+      "Bash(type *)"
+    ]
+  },
+  "$version": 4
+}
